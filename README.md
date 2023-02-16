@@ -1,2 +1,2 @@
 # Hogwarts-Houses
-Backend "Harry Potter" - themed for practicing Web APIs in Spring
+Backend "Harry Potter" - themed App for practicing Web APIs in Spring.
