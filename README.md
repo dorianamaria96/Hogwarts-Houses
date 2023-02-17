@@ -36,3 +36,5 @@ The following API endpoints are available in the application:
 
 ## Acknowledgements
 This project was created as part of my learning journey to become a better Spring developer. Special thanks to J.K. Rowling for creating the magical world of Harry Potter.
+
+It was a great pleasure to work on this project with my amazing team members!
